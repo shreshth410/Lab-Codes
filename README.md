@@ -30,9 +30,6 @@ I commit to:
 - Organizing code systematically by semester and subject
 - Including problem statements when possible
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Tips for Students
 1. Start organizing your code from Day 1
 2. Comment your code thoroughly - future you will thank you!
